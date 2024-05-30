@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning software development at Northcoders on their Dev. bootcamp. 
+🌱 I’m currently learning software development at Northcoders on their Softare Engineering bootcamp. 
 
-New to the world of coding and software development. I have worked on some free courses to start to build up my knowlegde. I have learn't some  of the basics in C, and quickly improving on my Javascript knowledge wih the help of the precourse materials given to me from Northcoders.
+New to the world of coding and software development. I have completed free online courses and recently come to the end of the Northcoders Software Engineering bootcamp (Mar - Jun 2024). I have learn't some of the basics in C, but predominantly have experience in Javascript following the bootcamp.
 
 Looking forward to learning more 😀
 
